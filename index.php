@@ -223,13 +223,13 @@
     <main class="container my-5">
         <div class="row g-2 mb-2 justify-content-center">
             <div class="col-md-3 col-6 animate-fade-in delay-1">
-                <a href="registration.php" class="btn btn-primary-custom w-100 py-3 d-flex flex-column align-items-center">
+                <a href="/unauth/registration_unauth.php" class="btn btn-primary-custom w-100 py-3 d-flex flex-column align-items-center">
                     <i class="bi bi-backpack fs-3 mb-2"></i>
                     <span>Записать ребенка в секцию</span>
                 </a>
             </div>
             <div class="col-md-3 col-6 animate-fade-in delay-1">
-                <a href="parent_clubs.php" class="btn btn-primary-custom w-100 py-3 d-flex flex-column align-items-center">
+                <a href="/unauth/clubs.php" class="btn btn-primary-custom w-100 py-3 d-flex flex-column align-items-center">
                     <i class="bi bi-people fs-3 mb-2"></i>
                     <span>Коллективы</span>
                 </a>
